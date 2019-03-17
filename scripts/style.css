@@ -1,0 +1,9 @@
+/*  vamula */
+p {
+  font-family: Arial;
+  font-size: 10px;
+}
+
+.confirmation { color: green; font-size: 10px;}
+.roomOpt { color: blue; }
+.room , .date {font-size: 9px; }
